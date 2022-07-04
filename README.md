@@ -5,7 +5,7 @@
 Capturas de la página: 
 
 ### Pagina index
-![Pagina Principal](/capturas/1.PNG)
+![Pagina Principal](/capturas/1.1.PNG)
 > Se muestra la pagina de bienvenida
 
 ![Pagina Quienes somos](/capturas/2.PNG)
